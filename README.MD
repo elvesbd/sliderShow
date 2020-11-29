@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img alt="Projeto Slider Show" src="">
-</h1>
+<h1 align="center">Projeto Slider Show</h1>
 
 <p align="center">Criação de slider show, adaptável a todos os tamanho de tela como desktop e mobile</p>
 
